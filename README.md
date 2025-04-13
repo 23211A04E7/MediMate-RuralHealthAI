@@ -21,13 +21,16 @@ An AI-powered voice-based health assistant tailored for rural areas. Offers mult
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](https://github.com/user-attachments/assets/163b45fd-72d7-4081-b9e3-db3072b01a86)
+
 
 ### 🩺 Symptom Checker - Step 1
-![Symptom Checker](screenshots/symptom-check.png)
+![Symptom Checker](https://github.com/user-attachments/assets/728ead66-6d3b-489e-9858-c165982027bf)
+
 
 ### 🤖 Symptom Checker - Result
-![Symptom Checker Result](screenshots/symptom-check1.png)
+![Symptom Checker ](https://github.com/user-attachments/assets/95e970ed-d11d-46a6-a91e-847c5cd13adf)
+
 
 
 ## 🚀 Run Locally
