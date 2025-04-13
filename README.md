@@ -19,7 +19,16 @@ An AI-powered voice-based health assistant tailored for rural areas. Offers mult
 - **Language Handling**: Google Speech API / Mozilla DeepSpeech (Optional)
 
 ## 📸 Screenshots
-_Add some UI screenshots here!_
+
+### 🏠 Home Page
+![Home Page](screenshots/homepage.png)
+
+### 🩺 Symptom Checker - Step 1
+![Symptom Checker](screenshots/symptom-check.png)
+
+### 🤖 Symptom Checker - Result
+![Symptom Checker Result](screenshots/symptom-check1.png)
+
 
 ## 🚀 Run Locally
 
