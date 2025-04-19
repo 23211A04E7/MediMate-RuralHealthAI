@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: medimate-backend
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python app.py"  # Change to your start file
+    envVars:
+      - key: FLASK_ENV
+        value: production
