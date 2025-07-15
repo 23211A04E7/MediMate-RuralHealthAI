@@ -1,47 +1,46 @@
-# MediMate-RuralHealthAI
-I-powered voice-based smart health assistant for rural communities.
-# 🏥 Smart Health Assistant for Rural Communities
+# MediMate – AI-Powered Health Assistant for Rural Communities
 
-An AI-powered voice-based health assistant tailored for rural areas. Offers multilingual support, symptom checker, home remedy suggestions, and clinic recommendations — even in offline environments.
+**MediMate** is a smart health assistant designed for rural communities. It supports **voice input in English and Telugu**, predicts symptoms, and offers local clinic suggestions, home remedies, and medical recommendations — all with offline-first capabilities.
 
-## 💡 Features
-- 🎙️ Voice-based input (Telugu & English)
-- 🧠 AI-powered symptom analysis
-- 🏡 Home remedy suggestions
-- 🏥 Nearby clinic recommendations
-- 🌐 Local language support
-- 📴 Offline functionality
+🌐 **Live Demo:**  
+👉 [Click here to open the app](https://23211a04e7.github.io/MediMate-RuralHealthAI/)
 
-## 🛠️ Tech Stack
-- **Frontend**: React.js + Tailwind CSS
+---
+
+## 🚀 Features
+
+- 🎙️ Voice-based symptom input (English & Telugu)
+- 🧠 AI-powered symptom prediction and remedy suggestions
+- 🏥 Nearby clinic recommendations (based on region)
+- 🔊 Speech output via gTTS (in Telugu and English)
+- 🌐 Works offline (core features)
+- 👩‍⚕️ User-friendly UI for villagers and health workers
+
+---
+
+## 🛠️ Built With
+
+- **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python (Flask)
-- **AI**: Symptom prediction model
-- **Language Handling**: Google Speech API / Mozilla DeepSpeech (Optional)
+- **Voice Tools**: Web Speech API, gTTS
+- **AI/ML**: Symptom prediction logic
+- **Hosting**: GitHub Pages
+
+---
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
-![Home Page](https://github.com/user-attachments/assets/163b45fd-72d7-4081-b9e3-db3072b01a86)
+![Home Page](screenshot.png)
+*Replace with actual screenshot or demo.gif*
 
+---
 
-### 🩺 Symptom Checker - Step 1
-![Symptom Checker](https://github.com/user-attachments/assets/728ead66-6d3b-489e-9858-c165982027bf)
+## 👩‍💻 Developer
 
+**Medipelly Harshitha**  
+📧 harshithamedipelly@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/medipelly-harshitha-325262293) | [GitHub](https://github.com/23211A04E7)
 
-### 🤖 Symptom Checker - Result
-![Symptom Checker ](https://github.com/user-attachments/assets/95e970ed-d11d-46a6-a91e-847c5cd13adf)
+---
 
-
-
-## 🚀 Run Locally
-
-```bash
-# Frontend
-cd frontend
-npm install
-npm start
-
-# Backend
-cd backend
-pip install -r requirements.txt
-python app.py
+> This project is part of my ongoing mission to build inclusive, AI-powered tools that reach the grassroots of India 🇮🇳
